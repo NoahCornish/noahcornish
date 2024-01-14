@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Noah Cornish! I am currently enrolled in my first year of the Bachelor of Education (BEd) I/S stream at Nipissing University.
+
+## Research
+
+Assessing EF-2 Tornado Impacts On Vegetation Cover Using Super Dove Satellites (https://1drv.ms/b/s!AmvGoGe3Zb1ngc8gxDpWtGvowZZxmQ)
+
+
 <!--
 **NoahCornish/noahcornish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
