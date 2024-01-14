@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Noah Cornish! I am currently enrolled in my first year of the Bachelor of Education (BEd) I/S stream at Nipissing University.
+I am Noah Cornish! I am currently enrolled in my first year of the Bachelor of Education (BEd) I/S stream at Nipissing University. I graduated in June of 2023 with my Honours Specialization in Enviornmental Geography with two specialists in Geomatics and Environmental Mangement with a minor in Biology.
 
 ## Research
 
