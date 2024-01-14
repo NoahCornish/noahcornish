@@ -5,7 +5,6 @@ I am Noah Cornish! I am currently enrolled in my first year of the Bachelor of E
 ## Research
 
 Assessing EF-2 Tornado Impacts On Vegetation Cover Using Super Dove Satellites (https://1drv.ms/b/s!AmvGoGe3Zb1ngc8gxDpWtGvowZZxmQ)
-![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
 
 <!--
 **NoahCornish/noahcornish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
