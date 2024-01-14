@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am Noah Cornish! I am currently enrolled in my first year of the Bachelor of Education (BEd) I/S stream at Nipissing University.
 
