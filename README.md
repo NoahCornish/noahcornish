@@ -14,7 +14,7 @@ September 2023 - Present
 *Specialist in Geomatics and Environmental Management, Minor in Biology*  
 September 2019 - June 2023  
 - Carl Sanders upper year scholarship recipient (awarded to full-time students who obtain an 80% average)
-- Extensive experience with GIS and GPS software (ArcGIS, Catalyst, Tableau)
+- Extensive experience with GIS, Remote Sensing, and GPS software (ArcGIS, Catalyst, Tableau)
 - Member of the Varsity Cross-Country team
 - 2022-2023 USports Academic All-Canadian
 
