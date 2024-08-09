@@ -50,9 +50,9 @@ May 2022 - September 2023
 
 ### Technical Skills
 
-- **Programming Languages:** R, Python, JavaScript, HTML
+- **Programming Languages:** R, JavaScript, HTML
 - **Software:** ArcGIS, Catalyst, Tableau, PerfectMind
-- **Web Development:** GitHub Pages, R Package Development
+- **Web Development:** GitHub Pages, R Package Development, ShinyApps
 
 ### Projects
 
