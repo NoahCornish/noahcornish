@@ -33,7 +33,7 @@ September 2019 - June 2023
 
 **Recreation Customer Service Associate (Contract)**  
 *Township of Scugog*  
-June 2024 - August 2024  
+May 2024 - August 2024  
 - Greeting and assisting the public
 - Managing reservations and bookings using PerfectMind software
 - Utilizing ArcGIS software for Parks Department asset management
