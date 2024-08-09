@@ -58,7 +58,7 @@ May 2022 - September 2023
 
 **OHL Data Package**  
 Developed an R package to access Ontario Hockey League (OHL) data.  
-[OHLpkg GitHub Repository](https://noahcornish.github.io/OHLpkg/)
+[OHLpkg GitHub Repository](https://www.github.com/NoahCornish/OHLpkg)
 
 ### Future Aspirations
 
