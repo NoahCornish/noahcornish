@@ -35,10 +35,12 @@ September 2019 - June 2023
 *Township of Scugog*  
 May 2024 - August 2024  
 - Greeting and assisting the public
-- Managing reservations and bookings using PerfectMind software
+- Managing reservations and bookings using Xplor Recreation (PerfectMind)
 - Utilizing ArcGIS software for Parks Department asset management
 - Training recent rink attendant hires
 - Drafting a rink attendant staff manual with standard operating procedures (SOPs)
+- Captial Budget items
+- Effectively worked both independently and within a team
 
 **Summer Student Recreation Customer Service Associate**  
 *Township of Scugog*  
