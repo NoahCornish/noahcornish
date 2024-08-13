@@ -23,7 +23,7 @@ September 2019 - June 2023
 
 ## Research
 
-### Assessing EF-2 Tornado Impacts On Vegetation Cover Using Super Dove Satellites
+### Assessing EF2 Tornado Impacts On Vegetation Cover Using Super Dove Satellites
   [View Report](https://1drv.ms/b/s!AmvGoGe3Zb1ngc8gxDpWtGvowZZxmQ)
 
 #### Introduction
@@ -42,7 +42,7 @@ The NDVI analysis revealed a significant drop in dense vegetation (NDVI: 0.6-0.8
 The study concludes that Super Dove satellites are effective tools for assessing tornado damage to vegetation. The EF2 tornado in Actinolite resulted in a substantial reduction in dense vegetation, providing valuable insights into the extent of tornado impacts. This approach could be useful for future assessments of tornado effects on vegetation cover.
 
 -------------------------------------  
-### Assessing EF-2 Tornado Impacts on Vegetation Cover In Actinolite, Ontario, Using Super Dove Satellites
+### Assessing EF2 Tornado Impacts on Vegetation Cover In Actinolite, Ontario, Using Super Dove Satellites
   [View Report](https://1drv.ms/b/s!AmvGoGe3Zb1ngdgZs0WFz-L-cwPLkQ?e=mhYCYN)
 
 #### Introduction
