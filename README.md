@@ -26,39 +26,13 @@ September 2019 - June 2023
 ### Assessing EF2 Tornado Impacts On Vegetation Cover Using Super Dove Satellites
   [View Report](https://1drv.ms/b/s!AmvGoGe3Zb1ngc8gxDpWtGvowZZxmQ)
 
-#### Introduction
-The study focuses on assessing the impact of an EF2 tornado on vegetation cover in Actinolite, Ontario, using Super Dove satellites. Tornadoes are a common occurrence in Southern Ontario, particularly during the spring and summer. The EF2 tornado that struck Actinolite on July 24th, 2022, caused significant vegetation damage. The use of Super Dove satellites provides an accurate and efficient method for analyzing tornado damage and improving understanding of the impacts of such events on vegetation.
-
-#### Study Area
-The tornado originated in Rockdale, Ontario, and tracked eastward, covering a 56-kilometer path that included Actinolite. The study area, which experienced significant damage, covers 35.36 square kilometers. Satellite imagery from July 11th, 2022 (before the tornado), and August 12th, 2022 (after the tornado), was used to visualize the affected region.
-
-#### Methodology
-The study utilized Super Dove (PSB.SD) satellite imagery, which offers a spatial resolution of 3 meters per pixel across eight spectral bands. For this analysis, four specific spectral bands were selected: Blue, Green I, Red, and Near-infrared (NIR). The methodology involved calculating the Normalized Difference Vegetation Index (NDVI) to assess changes in vegetation before and after the tornado. NDVI values were classified into different ranges to quantify vegetation cover, from sparse to dense.
-
-#### Results & Discussion
-The NDVI analysis revealed a significant drop in dense vegetation (NDVI: 0.6-0.8), with a decrease of 7.31 square kilometers, representing a 20.67% loss. This loss corresponded to an increase in sparse vegetation and bare soil. The study demonstrates the effectiveness of satellite imagery and NDVI in quantifying tornado impacts on vegetation cover, highlighting the shift from dense to sparse vegetation following the tornado.
-
-#### Conclusion
-The study concludes that Super Dove satellites are effective tools for assessing tornado damage to vegetation. The EF2 tornado in Actinolite resulted in a substantial reduction in dense vegetation, providing valuable insights into the extent of tornado impacts. This approach could be useful for future assessments of tornado effects on vegetation cover.
+I assessed the impact of an EF2 tornado on vegetation in Actinolite, Ontario, using Super Dove satellites. The tornado struck on July 24, 2022, traveling 56 km eastward from Rockdale and severely affecting a 35.36 km² area. By analyzing satellite imagery from July 11 (before the tornado) and August 12 (after the tornado) using the Normalized Difference Vegetation Index (NDVI), I quantified changes in vegetation density. The results revealed a 20.67% loss in dense vegetation (7.31 km²), replaced by sparse vegetation and bare soil. This study highlights the effectiveness of Super Dove satellites in capturing tornado-induced damage and provides valuable insights into vegetation loss and environmental recovery.
 
 -------------------------------------  
 ### Assessing EF2 Tornado Impacts on Vegetation Cover In Actinolite, Ontario, Using Super Dove Satellites
   [View Report](https://1drv.ms/b/s!AmvGoGe3Zb1ngdgZs0WFz-L-cwPLkQ?e=mhYCYN)
 
-#### Introduction
-The study investigates the impact of an EF2 tornado on vegetation cover in Actinolite, Ontario, using Super Dove satellites. The tornado struck on July 24th, 2022, causing significant damage. This research aims to efficiently assess the extent of vegetation damage caused by the tornado using satellite imagery.
-
-#### Study Area
-The EF2 tornado originated in Rockdale, Ontario, and traveled east to Actinolite, covering a 56-kilometer path. The tornado caused extensive vegetation damage, particularly in and around Actinolite. The study area spans 55.78 square kilometers, with satellite imagery collected before and after the event (July 11th and August 12th, 2022).
-
-#### Methodology
-Satellite imagery from Planet Labs' Super Dove satellite was used to analyze the tornado's impact. The images were radiometrically and geometrically corrected using the Top of Atmosphere Radiance (TOAR) formula. Four spectral bands (Blue, Green I, Red, and Near-infrared) were selected for the analysis. Techniques such as Write Function Memory Insertion (WFMI) and Post-Classification Change Detections were employed to assess vegetation changes between the two dates.
-
-#### Results & Discussion
-The analysis revealed a 9.98% reduction in vegetation cover within the study area, translating to 5.57 square kilometers of damage. The WFMI and Post-Classification Change Detections highlighted areas with significant vegetation loss and provided statistical data on the classification changes. The findings confirm the effectiveness of Super Dove satellites in detecting and quantifying tornado-induced vegetation damage.
-
-#### Conclusion
-The study successfully demonstrates the application of remote sensing technology for assessing tornado damage on vegetation. The results show that the tornado caused significant vegetation loss, and the methodology used can be useful for future assessments of tornado impacts on vegetation cover.
+I examined vegetation damage caused by the same EF2 tornado over a broader 55.78 km² area. Using Super Dove satellite imagery, I applied advanced techniques such as Write Function Memory Insertion (WFMI) and Post-Classification Change Detections to analyze vegetation changes between July 11 and August 12, 2022. The analysis identified a 9.98% reduction in vegetation cover (5.57 km²). This study further demonstrated the utility of satellite imagery in efficiently detecting tornado impacts, offering a practical methodology for mapping and quantifying vegetation loss in disaster-affected regions.
 
 ----------------------------------------
 ### Don River Flood Assessment
