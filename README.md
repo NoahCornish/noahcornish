@@ -38,23 +38,9 @@ I examined vegetation damage caused by the same EF2 tornado over a broader 55.78
 ### Don River Flood Assessment
 [View Report](https://1drv.ms/b/s!AmvGoGe3Zb1nyHx7OhRRmGkRDTYb?e=ht6b83)
 
-#### Introduction
-This project investigates the flood risk of the Don River in Toronto, focusing on areas from Queen Street East to Lake Ontario. In July 2013, Toronto experienced severe thunderstorms, highlighting the need to assess the vulnerability of urban areas to flooding. This study aims to understand the flood risks in the Don River watershed, specifically within the M4M and M5A forward sortation areas.
+I conducted a study to assess flood risk in the Don River watershed in Toronto, focusing on the M4M and M5A forward sortation areas from Queen Street East to Lake Ontario. These areas, with 65,767 residents and 5,855 buildings, are particularly vulnerable due to their low elevation near the Don River's outflow. Using data from Land Information Ontario, the City of Toronto Open Data Portal, and Statistics Canada, I analyzed flood scenarios with a Digital Elevation Model (DEM) in ArcGIS Pro, simulating water levels from 1m to 5m. The results showed that a 1m flood could impact 13 buildings, while a 5m flood could affect up to 1,946 buildings, posing significant risks to infrastructure and residents. This study underscores the critical need for flood preparedness in Toronto and highlights the importance of using high-resolution DEM data for more accurate risk assessments and mitigation planning.
 
-#### Study Area
-The selected study area is in central Toronto, encompassing the M4M and M5A forward sortation areas, which are prone to flooding due to their low elevation. These areas, with a population of 65,767 and 5,855 buildings, are vital to study as they are located near the outflow of the Don River into Lake Ontario.
-
-#### Methodology
-Data for this study was sourced from Land Information Ontario, the City of Toronto Open Data Portal, and Statistics Canada. The study utilized a Digital Elevation Model (DEM) to simulate flooding scenarios at different water levels (1m to 5m). Using ArcGIS Pro, the extent of flooding and its impact on buildings and infrastructure were visualized and analyzed.
-
-#### Results & Discussion
-Simulations showed that flooding at 1m affects 13 buildings, while a 5m flood could impact up to 1,946 buildings, posing a significant risk to the entire population in the area. The study provides crucial data for the City of Toronto and the Toronto and Region Conservation Authority to predict potential damages and improve flood preparedness.
-
-#### Conclusion
-The study highlights the severe flood risks posed by the Don River, emphasizing the importance of preparedness and the need for higher resolution DEM data for more accurate modelling.
-
-
-
+----------------------------------------
 ## Professional Experience
 
 **Recreation Customer Service Associate (Contract)**  
