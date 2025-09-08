@@ -18,7 +18,7 @@
 *September 2019 – June 2023*  
 - Recipient of the Carl Sanders Upper-Year Scholarship (awarded to full-time students with an 80%+ average).  
 - Extensive training in GIS, Remote Sensing, and GPS software (ArcGIS, Catalyst, Tableau).  
-- Varsity Cross-Country team member; 2022–2023 U Sports Academic All-Canadian.  
+- Varsity Cross-Country team member; 2022–2025 U Sports Academic All-Canadian.  
 
 ---
 
