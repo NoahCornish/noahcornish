@@ -9,7 +9,7 @@
 
 **Nipissing University**  
 *Bachelor of Education (BEd), Intermediate/Senior Stream*  
-September 2023 - Present
+September 2023 - April 2025
 
 **Nipissing University**  
 *Honours Specialization in Environmental Geography*  
@@ -43,6 +43,11 @@ I conducted a study to assess flood risk in the Don River watershed in Toronto, 
 ----------------------------------------
 ## Professional Experience
 
+**1.0 Permanent Teacher**
+*James Bay Lowlands Secondary School Board*
+August 2025 - Present
+- Currently teaching: SBI4U, SBI3U, SBI3C, CGF3M, and CGC1W 
+
 **Recreation Customer Service Associate (Contract)**  
 *Township of Scugog*  
 May 2024 - August 2024  
@@ -75,6 +80,9 @@ May 2022 - September 2023
 **OHL Data Package**  
 Developed an R package to access Ontario Hockey League (OHL) data.  
 [OHLpkg GitHub Repository](https://www.github.com/NoahCornish/OHLpkg)
+
+**Canadian National Metar Project CNMP**
+Developing a comprehensive national-wide METAR dataset for study purposes. Developing
 
 
 ## Future Aspirations
