@@ -1,11 +1,5 @@
 # Noah Cornish  
 
-<img src="https://github.com/NoahCornish/noahcornish/blob/main/images/dji_fly_20230909_154920_895_1694288988815_photo_optimized.jpg" alt="Noah Cornish" width="200" />
-
-[GitHub](https://github.com/NoahCornish)
-
----
-
 ## Education  
 
 **Nipissing University**  
