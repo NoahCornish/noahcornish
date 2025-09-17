@@ -80,7 +80,7 @@
 - Developed an R package to access Ontario Hockey League (OHL) data.  
 [GitHub Repository](https://www.github.com/NoahCornish/OHLpkg)  
 
-**Canadian National METAR Project (CNMP)**  
+**North American Flight Condition Research Project (NAFCRP)**  
 - Developing a comprehensive national METAR dataset for research and analysis.  
 
 ---
