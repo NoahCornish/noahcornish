@@ -38,9 +38,14 @@
 
 ## Professional Experience  
 
-**1.0 Permanent Teacher**  
+**1.0 LTO Teacher**  
+*Durham District School Board*  
+*December 2025 – Current*  
+- Teaching: SNC2D, SCH4U.  
+
+**1.0 LTO Teacher**  
 *James Bay Lowlands Secondary School Board*  
-*August 2025 – Present*  
+*April 2025 – Oct 2025*  
 - Teaching: SBI4U, SBI3U, SBI3C, CGF3M, and CGC1W.  
 
 **Recreation Customer Service Associate (Contract)**  
