@@ -11,7 +11,7 @@
 *Specialist in Geomatics & Environmental Management, Minor in Biology*  
 *September 2019 – June 2023*  
 - Recipient of the Carl Sanders Upper-Year Scholarship (awarded to full-time students with an 80%+ average).  
-- Extensive training in GIS, Remote Sensing, and GPS software (ArcGIS, Catalyst, Tableau).  
+- Extensive experience using GIS, Remote Sensing, and various GPS softwares (ArcGIS, Catalyst, Tableau).  
 - Varsity Cross-Country team member; 2022–2025 U Sports Academic All-Canadian.  
 
 ---
@@ -68,7 +68,7 @@
 ## Technical Skills  
 
 - **Programming Languages:** R, JavaScript, HTML  
-- **Software:** ArcGIS, Catalyst, Tableau, PerfectMind  
+- **Software:** ArcGIS, Catalyst, Tableau, PerfectMind 
 - **Web Development:** GitHub Pages, R Package Development, ShinyApps  
 
 ---
@@ -79,11 +79,8 @@
 - Developed an R package to access Ontario Hockey League (OHL) data.  
 [GitHub Repository](https://www.github.com/NoahCornish/OHLpkg)  
 
-**North American Flight Condition Research Project (NAFCRP)**  
-- Developing a comprehensive national METAR dataset for research and analysis.  
-
 ---
 
 ## Future Aspirations  
 
-I am committed to continuous professional growth, particularly in GIS, programming, and web development. I aim to further expand my expertise in ArcGIS, JavaScript, and HTML while pursuing ambitious personal goals such as completing an Ironman triathlon—demonstrating my dedication to both physical and mental endurance. I am passionate about embracing new challenges and building on my academic and professional experiences.  
+I am committed to continuous professional growth, particularly in GIS, programming, and web development. I am passionate about embracing new challenges and building on my academic and professional experiences.  
