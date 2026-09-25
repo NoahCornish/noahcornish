@@ -38,12 +38,12 @@
 
 ## Professional Experience  
 
-**1.0 LTO Teacher**  
+**1.0 LTO High School Teacher**  
 *Durham District School Board*  
 *December 2025 – Current*  
-- Teaching: SNC2D, SCH4U.  
+- Teaching: SNC2D, SCH4U, CGC1W1, PPZ3C1, GLE1O1 
 
-**1.0 LTO Teacher**  
+**1.0 LTO High School Teacher**  
 *James Bay Lowlands Secondary School Board*  
 *April 2025 – Oct 2025*  
 - Teaching: SBI4U, SBI3U, SBI3C, CGF3M, and CGC1W.  
